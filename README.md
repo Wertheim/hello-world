@@ -18,5 +18,12 @@ Sorting Practice.py
   Bubble Sort, Selection Sort, and Merge Sort.
   Note Bubble and Selection will mutate the original list
   
+Format.py
+  This program was made to pull out only the student ID's from one excel sheet, that were contained in a different excel sheet. 
+  (Including duplicates) It writes to a text file a specific cell from an excel sheet, if 2 cells (first name and last name) are included
+  in a different excel sheet.  I used this to create a database of student who were in our lunch system so we could use a barcode scanner
+  on their physical ID's instead of looking them up by hand.
+  TODO: write directly to excel file
+  
 Please let me know if you would like other/more relevant examples to something in particular
 -Autry Wertheim
