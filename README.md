@@ -2,7 +2,7 @@
 Misc.
 This is where I commit misc. code snippets/excercises that I practice on.
 
-I am currently teaching a class on Python and JavaScript
+I am currently teaching a class on Python and JavaScript.
 There are 3 examples of code in this repository:
 
 Interest(bisection).py--
@@ -25,5 +25,7 @@ Format.py--
   on their physical ID's instead of looking them up by hand.
   TODO: write directly to excel file
   
+Added Wertheim.html
+  A resume coded in html/css
 Please let me know if you would like other/more relevant examples to something in particular
 -Autry Wertheim
